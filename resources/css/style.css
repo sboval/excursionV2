@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 8px 0px;
+    font-family: helvetica;
+    background-color: black;
+    margin: 8px;
+    text-align: center;
+}
+
+a {
+    color: seagreen;
+    text-align: center;
+    display: block;
+}
+
+video {
+    margin: auto;
+    width: 200;
+    display: block;
+}
+
+
+
+h1 {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+p {
+    color: gray;
+    font-size: 20px;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
